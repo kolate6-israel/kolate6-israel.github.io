@@ -1,27 +1,3 @@
 body{
-    background: url(fondo.gif) no-repeat center center fixed;
-    color: white;
-  
+    background-color: antiquewhite;
 }
- *{
-    margin:0;
-    padding:0;
-    }
-    h1{
-        Font-size :60px;
-        font-family: 'Poppins', sans-serif;
-        color:white;
-        padding-bottom: 60px;
-        text-align:center;
-        
-        }
-        p{
-            font-size: 15px;
-            padding-right: 20%;
-            padding-left: 20%;
-        }
-        h2{
-            font-size: 35px;
-            padding-right: 20%;
-            padding-left: 20%;
-        }
