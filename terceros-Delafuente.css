@@ -1,0 +1,35 @@
+body{
+    background-color:darkcyan;
+    color: white;
+    }
+    
+    .Fase1{
+    margin: left;
+    width: 390px;
+    float: left;
+    padding: 5%;
+    }
+    
+    .Fase2{
+    margin: left;
+    width: 390px;
+    float: left;
+    padding: 5%;
+    }
+    
+    .Fase3{
+    margin: left;
+    width: 390px;
+    float: left;
+    padding: 5%;
+    }
+    
+    img{
+    width: 390px;
+    height: 390px;    
+    }
+    
+    .title{
+    color: white;
+    align-content: center;
+    }
